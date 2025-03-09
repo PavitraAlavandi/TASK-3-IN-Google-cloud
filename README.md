@@ -10,4 +10,4 @@
 
 **MENTOR**: NEELA SANTOSH
 
-##This task is abut multi task architecture, have designed multi-cloud architecture where services are distrubuted across two cloud poviders and delireda demo showcasing interoperbility betwwen the platforms
+# This task is abut multi task architecture, have designed multi-cloud architecture where services are distrubuted across two cloud poviders and delireda demo showcasing interoperbility betwwen the platforms
